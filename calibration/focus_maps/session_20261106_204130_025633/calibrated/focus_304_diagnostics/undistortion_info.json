@@ -1,0 +1,37 @@
+{
+  "camera_matrix": [
+    [
+      526.8814057248898,
+      0.0,
+      316.4502548609175
+    ],
+    [
+      0.0,
+      525.9879413688872,
+      221.56689872708841
+    ],
+    [
+      0.0,
+      0.0,
+      1.0
+    ]
+  ],
+  "dist_coeffs": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "image_size": [
+    640,
+    480
+  ],
+  "valid_roi_xywh": [
+    12,
+    7,
+    614,
+    460
+  ],
+  "note": "Only for full-frame undistorted images; localization uses original images and original K,D."
+}

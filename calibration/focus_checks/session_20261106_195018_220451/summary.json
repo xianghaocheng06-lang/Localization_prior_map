@@ -1,0 +1,11 @@
+{
+  "saved_images": 1,
+  "saved_focus_readbacks": [
+    359.0
+  ],
+  "accepted_focus_requests": 228,
+  "backend": "DSHOW",
+  "same_focus_comparisons": 0,
+  "comparisons": [],
+  "interpretation": "Driver readback and fixed-scene repeatability evidence only; not a focus encoder or intrinsics calibration."
+}

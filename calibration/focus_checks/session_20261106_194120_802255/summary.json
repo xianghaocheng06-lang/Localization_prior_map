@@ -1,0 +1,8 @@
+{
+  "saved_images": 0,
+  "saved_focus_readbacks": [],
+  "accepted_focus_requests": 0,
+  "same_focus_comparisons": 0,
+  "comparisons": [],
+  "interpretation": "Driver readback and fixed-scene repeatability evidence only; not a focus encoder or intrinsics calibration."
+}

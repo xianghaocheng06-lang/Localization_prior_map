@@ -1,0 +1,3629 @@
+[
+  {
+    "pose": 1,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:41:47.729210+08:00",
+    "action": "begin",
+    "target": 272.0,
+    "readback": {
+      "focus_readback": 144.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    }
+  },
+  {
+    "pose": 1,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:41:48.038100+08:00",
+    "action": "write_focus",
+    "target": 272.0,
+    "readback": {
+      "focus_readback": 272.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1,
+    "accepted": true
+  },
+  {
+    "pose": 1,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:41:52.128640+08:00",
+    "action": "focus_timeout",
+    "target": 272.0,
+    "readback": {
+      "focus_readback": 144.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1
+  },
+  {
+    "pose": 1,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:41:52.140670+08:00",
+    "action": "write_focus",
+    "target": 272.0,
+    "readback": {
+      "focus_readback": 272.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 2,
+    "accepted": true
+  },
+  {
+    "pose": 1,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:41:53.771101+08:00",
+    "action": "verified",
+    "target": 272.0,
+    "readback": {
+      "focus_readback": 272.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 2
+  },
+  {
+    "time": "2026-11-06T20:41:54.222892+08:00",
+    "pose": 1,
+    "focus": 272.0,
+    "success": true
+  },
+  {
+    "pose": 1,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:41:54.277440+08:00",
+    "action": "begin",
+    "target": 304.0,
+    "readback": {
+      "focus_readback": 272.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    }
+  },
+  {
+    "pose": 1,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:41:54.490949+08:00",
+    "action": "write_focus",
+    "target": 304.0,
+    "readback": {
+      "focus_readback": 304.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1,
+    "accepted": true
+  },
+  {
+    "pose": 1,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:41:56.122435+08:00",
+    "action": "verified",
+    "target": 304.0,
+    "readback": {
+      "focus_readback": 304.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1
+  },
+  {
+    "time": "2026-11-06T20:41:56.574810+08:00",
+    "pose": 1,
+    "focus": 304.0,
+    "success": true
+  },
+  {
+    "pose": 1,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:41:56.591392+08:00",
+    "action": "begin",
+    "target": 368.0,
+    "readback": {
+      "focus_readback": 304.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    }
+  },
+  {
+    "pose": 1,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:41:56.843440+08:00",
+    "action": "write_focus",
+    "target": 368.0,
+    "readback": {
+      "focus_readback": 368.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1,
+    "accepted": true
+  },
+  {
+    "pose": 1,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:41:58.473585+08:00",
+    "action": "verified",
+    "target": 368.0,
+    "readback": {
+      "focus_readback": 368.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1
+  },
+  {
+    "time": "2026-11-06T20:41:58.931310+08:00",
+    "pose": 1,
+    "focus": 368.0,
+    "success": true
+  },
+  {
+    "pose": 2,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:42:13.234738+08:00",
+    "action": "begin",
+    "target": 272.0,
+    "readback": {
+      "focus_readback": 368.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    }
+  },
+  {
+    "pose": 2,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:42:13.537821+08:00",
+    "action": "write_focus",
+    "target": 272.0,
+    "readback": {
+      "focus_readback": 272.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1,
+    "accepted": true
+  },
+  {
+    "pose": 2,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:42:15.171117+08:00",
+    "action": "verified",
+    "target": 272.0,
+    "readback": {
+      "focus_readback": 272.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1
+  },
+  {
+    "time": "2026-11-06T20:42:15.620388+08:00",
+    "pose": 2,
+    "focus": 272.0,
+    "success": true
+  },
+  {
+    "pose": 2,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:42:15.640700+08:00",
+    "action": "begin",
+    "target": 304.0,
+    "readback": {
+      "focus_readback": 272.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    }
+  },
+  {
+    "pose": 2,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:42:15.888743+08:00",
+    "action": "write_focus",
+    "target": 304.0,
+    "readback": {
+      "focus_readback": 304.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1,
+    "accepted": true
+  },
+  {
+    "pose": 2,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:42:17.523543+08:00",
+    "action": "verified",
+    "target": 304.0,
+    "readback": {
+      "focus_readback": 304.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1
+  },
+  {
+    "time": "2026-11-06T20:42:17.973188+08:00",
+    "pose": 2,
+    "focus": 304.0,
+    "success": true
+  },
+  {
+    "pose": 2,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:42:18.034745+08:00",
+    "action": "begin",
+    "target": 368.0,
+    "readback": {
+      "focus_readback": 304.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    }
+  },
+  {
+    "pose": 2,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:42:18.243584+08:00",
+    "action": "write_focus",
+    "target": 368.0,
+    "readback": {
+      "focus_readback": 368.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1,
+    "accepted": true
+  },
+  {
+    "pose": 2,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:42:19.878469+08:00",
+    "action": "verified",
+    "target": 368.0,
+    "readback": {
+      "focus_readback": 368.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1
+  },
+  {
+    "time": "2026-11-06T20:42:20.329387+08:00",
+    "pose": 2,
+    "focus": 368.0,
+    "success": true
+  },
+  {
+    "pose": 3,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:42:27.770568+08:00",
+    "action": "begin",
+    "target": 272.0,
+    "readback": {
+      "focus_readback": 368.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    }
+  },
+  {
+    "pose": 3,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:42:28.075098+08:00",
+    "action": "write_focus",
+    "target": 272.0,
+    "readback": {
+      "focus_readback": 272.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1,
+    "accepted": true
+  },
+  {
+    "pose": 3,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:42:29.706050+08:00",
+    "action": "verified",
+    "target": 272.0,
+    "readback": {
+      "focus_readback": 272.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1
+  },
+  {
+    "time": "2026-11-06T20:42:30.168770+08:00",
+    "pose": 3,
+    "focus": 272.0,
+    "success": true
+  },
+  {
+    "pose": 3,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:42:30.215468+08:00",
+    "action": "begin",
+    "target": 304.0,
+    "readback": {
+      "focus_readback": 272.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    }
+  },
+  {
+    "pose": 3,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:42:30.434140+08:00",
+    "action": "write_focus",
+    "target": 304.0,
+    "readback": {
+      "focus_readback": 304.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1,
+    "accepted": true
+  },
+  {
+    "pose": 3,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:42:32.065410+08:00",
+    "action": "verified",
+    "target": 304.0,
+    "readback": {
+      "focus_readback": 304.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1
+  },
+  {
+    "time": "2026-11-06T20:42:32.519000+08:00",
+    "pose": 3,
+    "focus": 304.0,
+    "success": true
+  },
+  {
+    "pose": 3,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:42:32.537851+08:00",
+    "action": "begin",
+    "target": 368.0,
+    "readback": {
+      "focus_readback": 304.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    }
+  },
+  {
+    "pose": 3,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:42:32.786183+08:00",
+    "action": "write_focus",
+    "target": 368.0,
+    "readback": {
+      "focus_readback": 368.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1,
+    "accepted": true
+  },
+  {
+    "pose": 3,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:42:34.420829+08:00",
+    "action": "verified",
+    "target": 368.0,
+    "readback": {
+      "focus_readback": 368.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1
+  },
+  {
+    "time": "2026-11-06T20:42:34.875178+08:00",
+    "pose": 3,
+    "focus": 368.0,
+    "success": true
+  },
+  {
+    "pose": 4,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:42:47.944407+08:00",
+    "action": "begin",
+    "target": 272.0,
+    "readback": {
+      "focus_readback": 368.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    }
+  },
+  {
+    "pose": 4,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:42:48.248759+08:00",
+    "action": "write_focus",
+    "target": 272.0,
+    "readback": {
+      "focus_readback": 272.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1,
+    "accepted": true
+  },
+  {
+    "pose": 4,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:42:49.882474+08:00",
+    "action": "verified",
+    "target": 272.0,
+    "readback": {
+      "focus_readback": 272.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1
+  },
+  {
+    "time": "2026-11-06T20:42:50.334626+08:00",
+    "pose": 4,
+    "focus": 272.0,
+    "success": true
+  },
+  {
+    "pose": 4,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:42:50.351361+08:00",
+    "action": "begin",
+    "target": 304.0,
+    "readback": {
+      "focus_readback": 272.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    }
+  },
+  {
+    "pose": 4,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:42:50.604158+08:00",
+    "action": "write_focus",
+    "target": 304.0,
+    "readback": {
+      "focus_readback": 304.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1,
+    "accepted": true
+  },
+  {
+    "pose": 4,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:42:52.236640+08:00",
+    "action": "verified",
+    "target": 304.0,
+    "readback": {
+      "focus_readback": 304.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1
+  },
+  {
+    "time": "2026-11-06T20:42:52.689559+08:00",
+    "pose": 4,
+    "focus": 304.0,
+    "success": true
+  },
+  {
+    "pose": 4,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:42:52.706864+08:00",
+    "action": "begin",
+    "target": 368.0,
+    "readback": {
+      "focus_readback": 304.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    }
+  },
+  {
+    "pose": 4,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:42:52.959476+08:00",
+    "action": "write_focus",
+    "target": 368.0,
+    "readback": {
+      "focus_readback": 368.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1,
+    "accepted": true
+  },
+  {
+    "pose": 4,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:42:54.592241+08:00",
+    "action": "verified",
+    "target": 368.0,
+    "readback": {
+      "focus_readback": 368.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1
+  },
+  {
+    "time": "2026-11-06T20:42:55.046408+08:00",
+    "pose": 4,
+    "focus": 368.0,
+    "success": true
+  },
+  {
+    "pose": 5,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:43:10.779865+08:00",
+    "action": "begin",
+    "target": 272.0,
+    "readback": {
+      "focus_readback": 368.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    }
+  },
+  {
+    "pose": 5,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:43:11.084444+08:00",
+    "action": "write_focus",
+    "target": 272.0,
+    "readback": {
+      "focus_readback": 272.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1,
+    "accepted": true
+  },
+  {
+    "pose": 5,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:43:12.717927+08:00",
+    "action": "verified",
+    "target": 272.0,
+    "readback": {
+      "focus_readback": 272.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1
+  },
+  {
+    "time": "2026-11-06T20:43:13.170637+08:00",
+    "pose": 5,
+    "focus": 272.0,
+    "success": true
+  },
+  {
+    "pose": 5,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:43:13.188558+08:00",
+    "action": "begin",
+    "target": 288.0,
+    "readback": {
+      "focus_readback": 272.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    }
+  },
+  {
+    "pose": 5,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:43:13.437922+08:00",
+    "action": "write_focus",
+    "target": 288.0,
+    "readback": {
+      "focus_readback": 288.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1,
+    "accepted": true
+  },
+  {
+    "pose": 5,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:43:15.073843+08:00",
+    "action": "verified",
+    "target": 288.0,
+    "readback": {
+      "focus_readback": 288.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1
+  },
+  {
+    "time": "2026-11-06T20:43:15.524011+08:00",
+    "pose": 5,
+    "focus": 288.0,
+    "success": true
+  },
+  {
+    "pose": 5,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:43:15.543072+08:00",
+    "action": "begin",
+    "target": 304.0,
+    "readback": {
+      "focus_readback": 288.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    }
+  },
+  {
+    "pose": 5,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:43:15.796161+08:00",
+    "action": "write_focus",
+    "target": 304.0,
+    "readback": {
+      "focus_readback": 304.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1,
+    "accepted": true
+  },
+  {
+    "pose": 5,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:43:17.429475+08:00",
+    "action": "verified",
+    "target": 304.0,
+    "readback": {
+      "focus_readback": 304.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1
+  },
+  {
+    "time": "2026-11-06T20:43:17.875763+08:00",
+    "pose": 5,
+    "focus": 304.0,
+    "success": true
+  },
+  {
+    "pose": 5,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:43:17.893396+08:00",
+    "action": "begin",
+    "target": 336.0,
+    "readback": {
+      "focus_readback": 304.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    }
+  },
+  {
+    "pose": 5,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:43:18.149878+08:00",
+    "action": "write_focus",
+    "target": 336.0,
+    "readback": {
+      "focus_readback": 336.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1,
+    "accepted": true
+  },
+  {
+    "pose": 5,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:43:19.785189+08:00",
+    "action": "verified",
+    "target": 336.0,
+    "readback": {
+      "focus_readback": 336.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1
+  },
+  {
+    "time": "2026-11-06T20:43:20.233374+08:00",
+    "pose": 5,
+    "focus": 336.0,
+    "success": true
+  },
+  {
+    "pose": 5,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:43:20.251390+08:00",
+    "action": "begin",
+    "target": 368.0,
+    "readback": {
+      "focus_readback": 336.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    }
+  },
+  {
+    "pose": 5,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:43:20.507266+08:00",
+    "action": "write_focus",
+    "target": 368.0,
+    "readback": {
+      "focus_readback": 368.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1,
+    "accepted": true
+  },
+  {
+    "pose": 5,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:43:22.137235+08:00",
+    "action": "verified",
+    "target": 368.0,
+    "readback": {
+      "focus_readback": 368.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1
+  },
+  {
+    "time": "2026-11-06T20:43:22.587872+08:00",
+    "pose": 5,
+    "focus": 368.0,
+    "success": true
+  },
+  {
+    "pose": 6,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:43:36.381211+08:00",
+    "action": "begin",
+    "target": 272.0,
+    "readback": {
+      "focus_readback": 368.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    }
+  },
+  {
+    "pose": 6,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:43:36.683083+08:00",
+    "action": "write_focus",
+    "target": 272.0,
+    "readback": {
+      "focus_readback": 272.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1,
+    "accepted": true
+  },
+  {
+    "pose": 6,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:43:38.314182+08:00",
+    "action": "verified",
+    "target": 272.0,
+    "readback": {
+      "focus_readback": 272.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1
+  },
+  {
+    "time": "2026-11-06T20:43:38.770025+08:00",
+    "pose": 6,
+    "focus": 272.0,
+    "success": true
+  },
+  {
+    "pose": 6,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:43:38.788193+08:00",
+    "action": "begin",
+    "target": 304.0,
+    "readback": {
+      "focus_readback": 272.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    }
+  },
+  {
+    "pose": 6,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:43:39.042867+08:00",
+    "action": "write_focus",
+    "target": 304.0,
+    "readback": {
+      "focus_readback": 304.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1,
+    "accepted": true
+  },
+  {
+    "pose": 6,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:43:40.672478+08:00",
+    "action": "verified",
+    "target": 304.0,
+    "readback": {
+      "focus_readback": 304.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1
+  },
+  {
+    "time": "2026-11-06T20:43:41.122194+08:00",
+    "pose": 6,
+    "focus": 304.0,
+    "success": true
+  },
+  {
+    "pose": 6,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:43:41.139695+08:00",
+    "action": "begin",
+    "target": 368.0,
+    "readback": {
+      "focus_readback": 304.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    }
+  },
+  {
+    "pose": 6,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:43:41.363926+08:00",
+    "action": "write_focus",
+    "target": 368.0,
+    "readback": {
+      "focus_readback": 368.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1,
+    "accepted": true
+  },
+  {
+    "pose": 6,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:43:43.029961+08:00",
+    "action": "verified",
+    "target": 368.0,
+    "readback": {
+      "focus_readback": 368.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1
+  },
+  {
+    "time": "2026-11-06T20:43:45.633219+08:00",
+    "pose": 6,
+    "focus": 368.0,
+    "success": false
+  },
+  {
+    "pose": 7,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:44:02.386528+08:00",
+    "action": "begin",
+    "target": 272.0,
+    "readback": {
+      "focus_readback": 368.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    }
+  },
+  {
+    "pose": 7,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:44:02.692793+08:00",
+    "action": "write_focus",
+    "target": 272.0,
+    "readback": {
+      "focus_readback": 272.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1,
+    "accepted": true
+  },
+  {
+    "pose": 7,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:44:04.327865+08:00",
+    "action": "verified",
+    "target": 272.0,
+    "readback": {
+      "focus_readback": 272.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1
+  },
+  {
+    "time": "2026-11-06T20:44:04.781923+08:00",
+    "pose": 7,
+    "focus": 272.0,
+    "success": true
+  },
+  {
+    "pose": 7,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:44:04.799174+08:00",
+    "action": "begin",
+    "target": 304.0,
+    "readback": {
+      "focus_readback": 272.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    }
+  },
+  {
+    "pose": 7,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:44:05.049339+08:00",
+    "action": "write_focus",
+    "target": 304.0,
+    "readback": {
+      "focus_readback": 304.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1,
+    "accepted": true
+  },
+  {
+    "pose": 7,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:44:06.683799+08:00",
+    "action": "verified",
+    "target": 304.0,
+    "readback": {
+      "focus_readback": 304.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1
+  },
+  {
+    "time": "2026-11-06T20:44:07.135417+08:00",
+    "pose": 7,
+    "focus": 304.0,
+    "success": true
+  },
+  {
+    "pose": 7,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:44:07.154104+08:00",
+    "action": "begin",
+    "target": 368.0,
+    "readback": {
+      "focus_readback": 304.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    }
+  },
+  {
+    "pose": 7,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:44:07.402000+08:00",
+    "action": "write_focus",
+    "target": 368.0,
+    "readback": {
+      "focus_readback": 368.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1,
+    "accepted": true
+  },
+  {
+    "pose": 7,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:44:09.037613+08:00",
+    "action": "verified",
+    "target": 368.0,
+    "readback": {
+      "focus_readback": 368.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1
+  },
+  {
+    "time": "2026-11-06T20:44:09.486918+08:00",
+    "pose": 7,
+    "focus": 368.0,
+    "success": true
+  },
+  {
+    "pose": 8,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:44:16.927677+08:00",
+    "action": "begin",
+    "target": 272.0,
+    "readback": {
+      "focus_readback": 368.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    }
+  },
+  {
+    "pose": 8,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:44:17.231793+08:00",
+    "action": "write_focus",
+    "target": 272.0,
+    "readback": {
+      "focus_readback": 272.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1,
+    "accepted": true
+  },
+  {
+    "pose": 8,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:44:18.867959+08:00",
+    "action": "verified",
+    "target": 272.0,
+    "readback": {
+      "focus_readback": 272.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1
+  },
+  {
+    "time": "2026-11-06T20:44:19.319676+08:00",
+    "pose": 8,
+    "focus": 272.0,
+    "success": true
+  },
+  {
+    "pose": 8,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:44:19.337461+08:00",
+    "action": "begin",
+    "target": 304.0,
+    "readback": {
+      "focus_readback": 272.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    }
+  },
+  {
+    "pose": 8,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:44:19.589013+08:00",
+    "action": "write_focus",
+    "target": 304.0,
+    "readback": {
+      "focus_readback": 304.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1,
+    "accepted": true
+  },
+  {
+    "pose": 8,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:44:21.223123+08:00",
+    "action": "verified",
+    "target": 304.0,
+    "readback": {
+      "focus_readback": 304.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1
+  },
+  {
+    "time": "2026-11-06T20:44:21.672897+08:00",
+    "pose": 8,
+    "focus": 304.0,
+    "success": true
+  },
+  {
+    "pose": 8,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:44:21.689478+08:00",
+    "action": "begin",
+    "target": 368.0,
+    "readback": {
+      "focus_readback": 304.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    }
+  },
+  {
+    "pose": 8,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:44:21.944294+08:00",
+    "action": "write_focus",
+    "target": 368.0,
+    "readback": {
+      "focus_readback": 368.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1,
+    "accepted": true
+  },
+  {
+    "pose": 8,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:44:23.578237+08:00",
+    "action": "verified",
+    "target": 368.0,
+    "readback": {
+      "focus_readback": 368.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1
+  },
+  {
+    "time": "2026-11-06T20:44:24.029429+08:00",
+    "pose": 8,
+    "focus": 368.0,
+    "success": true
+  },
+  {
+    "pose": 9,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:44:34.542814+08:00",
+    "action": "begin",
+    "target": 272.0,
+    "readback": {
+      "focus_readback": 368.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    }
+  },
+  {
+    "pose": 9,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:44:34.847028+08:00",
+    "action": "write_focus",
+    "target": 272.0,
+    "readback": {
+      "focus_readback": 272.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1,
+    "accepted": true
+  },
+  {
+    "pose": 9,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:44:36.480792+08:00",
+    "action": "verified",
+    "target": 272.0,
+    "readback": {
+      "focus_readback": 272.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1
+  },
+  {
+    "time": "2026-11-06T20:44:36.930037+08:00",
+    "pose": 9,
+    "focus": 272.0,
+    "success": true
+  },
+  {
+    "pose": 9,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:44:36.946019+08:00",
+    "action": "begin",
+    "target": 304.0,
+    "readback": {
+      "focus_readback": 272.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    }
+  },
+  {
+    "pose": 9,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:44:37.196930+08:00",
+    "action": "write_focus",
+    "target": 304.0,
+    "readback": {
+      "focus_readback": 304.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1,
+    "accepted": true
+  },
+  {
+    "pose": 9,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:44:38.835767+08:00",
+    "action": "verified",
+    "target": 304.0,
+    "readback": {
+      "focus_readback": 304.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1
+  },
+  {
+    "time": "2026-11-06T20:44:39.282207+08:00",
+    "pose": 9,
+    "focus": 304.0,
+    "success": true
+  },
+  {
+    "pose": 9,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:44:39.298569+08:00",
+    "action": "begin",
+    "target": 368.0,
+    "readback": {
+      "focus_readback": 304.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    }
+  },
+  {
+    "pose": 9,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:44:39.556214+08:00",
+    "action": "write_focus",
+    "target": 368.0,
+    "readback": {
+      "focus_readback": 368.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1,
+    "accepted": true
+  },
+  {
+    "pose": 9,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:44:41.191034+08:00",
+    "action": "verified",
+    "target": 368.0,
+    "readback": {
+      "focus_readback": 368.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1
+  },
+  {
+    "time": "2026-11-06T20:44:41.637825+08:00",
+    "pose": 9,
+    "focus": 368.0,
+    "success": true
+  },
+  {
+    "pose": 10,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:44:45.500729+08:00",
+    "action": "begin",
+    "target": 272.0,
+    "readback": {
+      "focus_readback": 368.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    }
+  },
+  {
+    "pose": 10,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:44:45.802791+08:00",
+    "action": "write_focus",
+    "target": 272.0,
+    "readback": {
+      "focus_readback": 272.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1,
+    "accepted": true
+  },
+  {
+    "pose": 10,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:44:47.436361+08:00",
+    "action": "verified",
+    "target": 272.0,
+    "readback": {
+      "focus_readback": 272.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1
+  },
+  {
+    "time": "2026-11-06T20:44:47.888909+08:00",
+    "pose": 10,
+    "focus": 272.0,
+    "success": true
+  },
+  {
+    "pose": 10,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:44:47.904961+08:00",
+    "action": "begin",
+    "target": 288.0,
+    "readback": {
+      "focus_readback": 272.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    }
+  },
+  {
+    "pose": 10,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:44:48.158745+08:00",
+    "action": "write_focus",
+    "target": 288.0,
+    "readback": {
+      "focus_readback": 288.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1,
+    "accepted": true
+  },
+  {
+    "pose": 10,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:44:49.791292+08:00",
+    "action": "verified",
+    "target": 288.0,
+    "readback": {
+      "focus_readback": 288.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1
+  },
+  {
+    "time": "2026-11-06T20:44:50.243862+08:00",
+    "pose": 10,
+    "focus": 288.0,
+    "success": true
+  },
+  {
+    "pose": 10,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:44:50.300971+08:00",
+    "action": "begin",
+    "target": 304.0,
+    "readback": {
+      "focus_readback": 288.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    }
+  },
+  {
+    "pose": 10,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:44:50.513045+08:00",
+    "action": "write_focus",
+    "target": 304.0,
+    "readback": {
+      "focus_readback": 304.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1,
+    "accepted": true
+  },
+  {
+    "pose": 10,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:44:52.149744+08:00",
+    "action": "verified",
+    "target": 304.0,
+    "readback": {
+      "focus_readback": 304.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1
+  },
+  {
+    "time": "2026-11-06T20:44:52.595424+08:00",
+    "pose": 10,
+    "focus": 304.0,
+    "success": true
+  },
+  {
+    "pose": 10,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:44:52.612973+08:00",
+    "action": "begin",
+    "target": 336.0,
+    "readback": {
+      "focus_readback": 304.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    }
+  },
+  {
+    "pose": 10,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:44:52.869405+08:00",
+    "action": "write_focus",
+    "target": 336.0,
+    "readback": {
+      "focus_readback": 336.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1,
+    "accepted": true
+  },
+  {
+    "pose": 10,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:44:54.503457+08:00",
+    "action": "verified",
+    "target": 336.0,
+    "readback": {
+      "focus_readback": 336.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1
+  },
+  {
+    "time": "2026-11-06T20:44:57.100348+08:00",
+    "pose": 10,
+    "focus": 336.0,
+    "success": false
+  },
+  {
+    "pose": 10,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:44:57.110436+08:00",
+    "action": "begin",
+    "target": 368.0,
+    "readback": {
+      "focus_readback": 336.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    }
+  },
+  {
+    "pose": 10,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:44:57.374129+08:00",
+    "action": "write_focus",
+    "target": 368.0,
+    "readback": {
+      "focus_readback": 368.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1,
+    "accepted": true
+  },
+  {
+    "pose": 10,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:44:59.008411+08:00",
+    "action": "verified",
+    "target": 368.0,
+    "readback": {
+      "focus_readback": 368.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1
+  },
+  {
+    "time": "2026-11-06T20:44:59.765733+08:00",
+    "pose": 10,
+    "focus": 368.0,
+    "success": true
+  },
+  {
+    "pose": 11,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:45:01.774901+08:00",
+    "action": "begin",
+    "target": 272.0,
+    "readback": {
+      "focus_readback": 368.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    }
+  },
+  {
+    "pose": 11,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:45:02.082897+08:00",
+    "action": "write_focus",
+    "target": 272.0,
+    "readback": {
+      "focus_readback": 272.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1,
+    "accepted": true
+  },
+  {
+    "pose": 11,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:45:03.718686+08:00",
+    "action": "verified",
+    "target": 272.0,
+    "readback": {
+      "focus_readback": 272.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1
+  },
+  {
+    "time": "2026-11-06T20:45:04.172449+08:00",
+    "pose": 11,
+    "focus": 272.0,
+    "success": true
+  },
+  {
+    "pose": 11,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:45:04.191058+08:00",
+    "action": "begin",
+    "target": 304.0,
+    "readback": {
+      "focus_readback": 272.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    }
+  },
+  {
+    "pose": 11,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:45:04.438188+08:00",
+    "action": "write_focus",
+    "target": 304.0,
+    "readback": {
+      "focus_readback": 304.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1,
+    "accepted": true
+  },
+  {
+    "pose": 11,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:45:06.072421+08:00",
+    "action": "verified",
+    "target": 304.0,
+    "readback": {
+      "focus_readback": 304.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1
+  },
+  {
+    "time": "2026-11-06T20:45:06.528398+08:00",
+    "pose": 11,
+    "focus": 304.0,
+    "success": true
+  },
+  {
+    "pose": 11,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:45:06.545044+08:00",
+    "action": "begin",
+    "target": 368.0,
+    "readback": {
+      "focus_readback": 304.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    }
+  },
+  {
+    "pose": 11,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:45:06.794336+08:00",
+    "action": "write_focus",
+    "target": 368.0,
+    "readback": {
+      "focus_readback": 368.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1,
+    "accepted": true
+  },
+  {
+    "pose": 11,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:45:08.428854+08:00",
+    "action": "verified",
+    "target": 368.0,
+    "readback": {
+      "focus_readback": 368.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1
+  },
+  {
+    "time": "2026-11-06T20:45:08.880523+08:00",
+    "pose": 11,
+    "focus": 368.0,
+    "success": true
+  },
+  {
+    "pose": 12,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:45:39.566094+08:00",
+    "action": "begin",
+    "target": 272.0,
+    "readback": {
+      "focus_readback": 368.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    }
+  },
+  {
+    "pose": 12,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:45:39.870229+08:00",
+    "action": "write_focus",
+    "target": 272.0,
+    "readback": {
+      "focus_readback": 272.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1,
+    "accepted": true
+  },
+  {
+    "pose": 12,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:45:41.503739+08:00",
+    "action": "verified",
+    "target": 272.0,
+    "readback": {
+      "focus_readback": 272.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1
+  },
+  {
+    "time": "2026-11-06T20:45:41.958193+08:00",
+    "pose": 12,
+    "focus": 272.0,
+    "success": true
+  },
+  {
+    "pose": 12,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:45:41.976402+08:00",
+    "action": "begin",
+    "target": 304.0,
+    "readback": {
+      "focus_readback": 272.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    }
+  },
+  {
+    "pose": 12,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:45:42.227433+08:00",
+    "action": "write_focus",
+    "target": 304.0,
+    "readback": {
+      "focus_readback": 304.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1,
+    "accepted": true
+  },
+  {
+    "pose": 12,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:45:43.859749+08:00",
+    "action": "verified",
+    "target": 304.0,
+    "readback": {
+      "focus_readback": 304.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1
+  },
+  {
+    "time": "2026-11-06T20:45:44.314211+08:00",
+    "pose": 12,
+    "focus": 304.0,
+    "success": true
+  },
+  {
+    "pose": 12,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:45:44.363512+08:00",
+    "action": "begin",
+    "target": 368.0,
+    "readback": {
+      "focus_readback": 304.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    }
+  },
+  {
+    "pose": 12,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:45:44.581322+08:00",
+    "action": "write_focus",
+    "target": 368.0,
+    "readback": {
+      "focus_readback": 368.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1,
+    "accepted": true
+  },
+  {
+    "pose": 12,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:45:46.215424+08:00",
+    "action": "verified",
+    "target": 368.0,
+    "readback": {
+      "focus_readback": 368.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1
+  },
+  {
+    "time": "2026-11-06T20:45:46.670822+08:00",
+    "pose": 12,
+    "focus": 368.0,
+    "success": true
+  },
+  {
+    "pose": 13,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:45:58.099272+08:00",
+    "action": "begin",
+    "target": 272.0,
+    "readback": {
+      "focus_readback": 368.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    }
+  },
+  {
+    "pose": 13,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:45:58.407213+08:00",
+    "action": "write_focus",
+    "target": 272.0,
+    "readback": {
+      "focus_readback": 272.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1,
+    "accepted": true
+  },
+  {
+    "pose": 13,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:46:00.039627+08:00",
+    "action": "verified",
+    "target": 272.0,
+    "readback": {
+      "focus_readback": 272.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1
+  },
+  {
+    "time": "2026-11-06T20:46:00.491031+08:00",
+    "pose": 13,
+    "focus": 272.0,
+    "success": true
+  },
+  {
+    "pose": 13,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:46:00.510111+08:00",
+    "action": "begin",
+    "target": 304.0,
+    "readback": {
+      "focus_readback": 272.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    }
+  },
+  {
+    "pose": 13,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:46:00.762991+08:00",
+    "action": "write_focus",
+    "target": 304.0,
+    "readback": {
+      "focus_readback": 304.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1,
+    "accepted": true
+  },
+  {
+    "pose": 13,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:46:02.393592+08:00",
+    "action": "verified",
+    "target": 304.0,
+    "readback": {
+      "focus_readback": 304.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1
+  },
+  {
+    "time": "2026-11-06T20:46:02.843806+08:00",
+    "pose": 13,
+    "focus": 304.0,
+    "success": true
+  },
+  {
+    "pose": 13,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:46:02.862303+08:00",
+    "action": "begin",
+    "target": 368.0,
+    "readback": {
+      "focus_readback": 304.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    }
+  },
+  {
+    "pose": 13,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:46:03.115312+08:00",
+    "action": "write_focus",
+    "target": 368.0,
+    "readback": {
+      "focus_readback": 368.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1,
+    "accepted": true
+  },
+  {
+    "pose": 13,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:46:04.748432+08:00",
+    "action": "verified",
+    "target": 368.0,
+    "readback": {
+      "focus_readback": 368.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1
+  },
+  {
+    "time": "2026-11-06T20:46:05.202792+08:00",
+    "pose": 13,
+    "focus": 368.0,
+    "success": true
+  },
+  {
+    "pose": 14,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:46:25.337653+08:00",
+    "action": "begin",
+    "target": 272.0,
+    "readback": {
+      "focus_readback": 368.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    }
+  },
+  {
+    "pose": 14,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:46:25.642755+08:00",
+    "action": "write_focus",
+    "target": 272.0,
+    "readback": {
+      "focus_readback": 272.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1,
+    "accepted": true
+  },
+  {
+    "pose": 14,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:46:27.277113+08:00",
+    "action": "verified",
+    "target": 272.0,
+    "readback": {
+      "focus_readback": 272.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1
+  },
+  {
+    "time": "2026-11-06T20:46:27.728453+08:00",
+    "pose": 14,
+    "focus": 272.0,
+    "success": true
+  },
+  {
+    "pose": 14,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:46:27.745526+08:00",
+    "action": "begin",
+    "target": 304.0,
+    "readback": {
+      "focus_readback": 272.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    }
+  },
+  {
+    "pose": 14,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:46:28.000980+08:00",
+    "action": "write_focus",
+    "target": 304.0,
+    "readback": {
+      "focus_readback": 304.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1,
+    "accepted": true
+  },
+  {
+    "pose": 14,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:46:29.631896+08:00",
+    "action": "verified",
+    "target": 304.0,
+    "readback": {
+      "focus_readback": 304.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1
+  },
+  {
+    "time": "2026-11-06T20:46:30.086945+08:00",
+    "pose": 14,
+    "focus": 304.0,
+    "success": true
+  },
+  {
+    "pose": 14,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:46:30.103910+08:00",
+    "action": "begin",
+    "target": 368.0,
+    "readback": {
+      "focus_readback": 304.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    }
+  },
+  {
+    "pose": 14,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:46:30.351968+08:00",
+    "action": "write_focus",
+    "target": 368.0,
+    "readback": {
+      "focus_readback": 368.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1,
+    "accepted": true
+  },
+  {
+    "pose": 14,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:46:31.987857+08:00",
+    "action": "verified",
+    "target": 368.0,
+    "readback": {
+      "focus_readback": 368.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1
+  },
+  {
+    "time": "2026-11-06T20:46:32.444330+08:00",
+    "pose": 14,
+    "focus": 368.0,
+    "success": true
+  },
+  {
+    "pose": 15,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:46:49.811038+08:00",
+    "action": "begin",
+    "target": 272.0,
+    "readback": {
+      "focus_readback": 368.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    }
+  },
+  {
+    "pose": 15,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:46:50.116409+08:00",
+    "action": "write_focus",
+    "target": 272.0,
+    "readback": {
+      "focus_readback": 272.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1,
+    "accepted": true
+  },
+  {
+    "pose": 15,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:46:51.750842+08:00",
+    "action": "verified",
+    "target": 272.0,
+    "readback": {
+      "focus_readback": 272.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1
+  },
+  {
+    "time": "2026-11-06T20:46:52.204730+08:00",
+    "pose": 15,
+    "focus": 272.0,
+    "success": true
+  },
+  {
+    "pose": 15,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:46:52.254505+08:00",
+    "action": "begin",
+    "target": 288.0,
+    "readback": {
+      "focus_readback": 272.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    }
+  },
+  {
+    "pose": 15,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:46:52.474900+08:00",
+    "action": "write_focus",
+    "target": 288.0,
+    "readback": {
+      "focus_readback": 288.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1,
+    "accepted": true
+  },
+  {
+    "pose": 15,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:46:54.106683+08:00",
+    "action": "verified",
+    "target": 288.0,
+    "readback": {
+      "focus_readback": 288.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1
+  },
+  {
+    "time": "2026-11-06T20:46:54.561483+08:00",
+    "pose": 15,
+    "focus": 288.0,
+    "success": true
+  },
+  {
+    "pose": 15,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:46:54.610850+08:00",
+    "action": "begin",
+    "target": 304.0,
+    "readback": {
+      "focus_readback": 288.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    }
+  },
+  {
+    "pose": 15,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:46:54.827123+08:00",
+    "action": "write_focus",
+    "target": 304.0,
+    "readback": {
+      "focus_readback": 304.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1,
+    "accepted": true
+  },
+  {
+    "pose": 15,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:46:56.460980+08:00",
+    "action": "verified",
+    "target": 304.0,
+    "readback": {
+      "focus_readback": 304.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1
+  },
+  {
+    "time": "2026-11-06T20:46:56.914550+08:00",
+    "pose": 15,
+    "focus": 304.0,
+    "success": true
+  },
+  {
+    "pose": 15,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:46:56.933228+08:00",
+    "action": "begin",
+    "target": 336.0,
+    "readback": {
+      "focus_readback": 304.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    }
+  },
+  {
+    "pose": 15,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:46:57.180696+08:00",
+    "action": "write_focus",
+    "target": 336.0,
+    "readback": {
+      "focus_readback": 336.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1,
+    "accepted": true
+  },
+  {
+    "pose": 15,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:46:58.815473+08:00",
+    "action": "verified",
+    "target": 336.0,
+    "readback": {
+      "focus_readback": 336.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1
+  },
+  {
+    "time": "2026-11-06T20:46:59.270084+08:00",
+    "pose": 15,
+    "focus": 336.0,
+    "success": true
+  },
+  {
+    "pose": 15,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:46:59.324998+08:00",
+    "action": "begin",
+    "target": 368.0,
+    "readback": {
+      "focus_readback": 336.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    }
+  },
+  {
+    "pose": 15,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:46:59.537499+08:00",
+    "action": "write_focus",
+    "target": 368.0,
+    "readback": {
+      "focus_readback": 368.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1,
+    "accepted": true
+  },
+  {
+    "pose": 15,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:47:01.171320+08:00",
+    "action": "verified",
+    "target": 368.0,
+    "readback": {
+      "focus_readback": 368.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1
+  },
+  {
+    "time": "2026-11-06T20:47:03.768568+08:00",
+    "pose": 15,
+    "focus": 368.0,
+    "success": false
+  },
+  {
+    "pose": 16,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:47:05.477923+08:00",
+    "action": "begin",
+    "target": 272.0,
+    "readback": {
+      "focus_readback": 368.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    }
+  },
+  {
+    "pose": 16,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:47:05.782140+08:00",
+    "action": "write_focus",
+    "target": 272.0,
+    "readback": {
+      "focus_readback": 272.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1,
+    "accepted": true
+  },
+  {
+    "pose": 16,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:47:07.416586+08:00",
+    "action": "verified",
+    "target": 272.0,
+    "readback": {
+      "focus_readback": 272.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1
+  },
+  {
+    "time": "2026-11-06T20:47:07.864781+08:00",
+    "pose": 16,
+    "focus": 272.0,
+    "success": true
+  },
+  {
+    "pose": 16,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:47:07.880803+08:00",
+    "action": "begin",
+    "target": 304.0,
+    "readback": {
+      "focus_readback": 272.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    }
+  },
+  {
+    "pose": 16,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:47:08.138085+08:00",
+    "action": "write_focus",
+    "target": 304.0,
+    "readback": {
+      "focus_readback": 304.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1,
+    "accepted": true
+  },
+  {
+    "pose": 16,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:47:09.771835+08:00",
+    "action": "verified",
+    "target": 304.0,
+    "readback": {
+      "focus_readback": 304.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1
+  },
+  {
+    "time": "2026-11-06T20:47:10.222023+08:00",
+    "pose": 16,
+    "focus": 304.0,
+    "success": true
+  },
+  {
+    "pose": 16,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:47:10.240024+08:00",
+    "action": "begin",
+    "target": 368.0,
+    "readback": {
+      "focus_readback": 304.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    }
+  },
+  {
+    "pose": 16,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:47:10.492745+08:00",
+    "action": "write_focus",
+    "target": 368.0,
+    "readback": {
+      "focus_readback": 368.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1,
+    "accepted": true
+  },
+  {
+    "pose": 16,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:47:12.127313+08:00",
+    "action": "verified",
+    "target": 368.0,
+    "readback": {
+      "focus_readback": 368.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1
+  },
+  {
+    "time": "2026-11-06T20:47:12.584777+08:00",
+    "pose": 16,
+    "focus": 368.0,
+    "success": true
+  },
+  {
+    "pose": 17,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:47:28.719007+08:00",
+    "action": "begin",
+    "target": 272.0,
+    "readback": {
+      "focus_readback": 368.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    }
+  },
+  {
+    "pose": 17,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:47:29.025187+08:00",
+    "action": "write_focus",
+    "target": 272.0,
+    "readback": {
+      "focus_readback": 272.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1,
+    "accepted": true
+  },
+  {
+    "pose": 17,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:47:30.661115+08:00",
+    "action": "verified",
+    "target": 272.0,
+    "readback": {
+      "focus_readback": 272.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1
+  },
+  {
+    "time": "2026-11-06T20:47:31.108619+08:00",
+    "pose": 17,
+    "focus": 272.0,
+    "success": true
+  },
+  {
+    "pose": 17,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:47:31.124290+08:00",
+    "action": "begin",
+    "target": 304.0,
+    "readback": {
+      "focus_readback": 272.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    }
+  },
+  {
+    "pose": 17,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:47:31.382359+08:00",
+    "action": "write_focus",
+    "target": 304.0,
+    "readback": {
+      "focus_readback": 304.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1,
+    "accepted": true
+  },
+  {
+    "pose": 17,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:47:33.016401+08:00",
+    "action": "verified",
+    "target": 304.0,
+    "readback": {
+      "focus_readback": 304.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1
+  },
+  {
+    "time": "2026-11-06T20:47:33.470899+08:00",
+    "pose": 17,
+    "focus": 304.0,
+    "success": true
+  },
+  {
+    "pose": 17,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:47:33.488626+08:00",
+    "action": "begin",
+    "target": 368.0,
+    "readback": {
+      "focus_readback": 304.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    }
+  },
+  {
+    "pose": 17,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:47:33.737087+08:00",
+    "action": "write_focus",
+    "target": 368.0,
+    "readback": {
+      "focus_readback": 368.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1,
+    "accepted": true
+  },
+  {
+    "pose": 17,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:47:35.370048+08:00",
+    "action": "verified",
+    "target": 368.0,
+    "readback": {
+      "focus_readback": 368.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1
+  },
+  {
+    "time": "2026-11-06T20:47:35.822297+08:00",
+    "pose": 17,
+    "focus": 368.0,
+    "success": true
+  },
+  {
+    "pose": 18,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:47:46.337154+08:00",
+    "action": "begin",
+    "target": 272.0,
+    "readback": {
+      "focus_readback": 368.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    }
+  },
+  {
+    "pose": 18,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:47:46.639355+08:00",
+    "action": "write_focus",
+    "target": 272.0,
+    "readback": {
+      "focus_readback": 272.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1,
+    "accepted": true
+  },
+  {
+    "pose": 18,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:47:48.274914+08:00",
+    "action": "verified",
+    "target": 272.0,
+    "readback": {
+      "focus_readback": 272.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1
+  },
+  {
+    "time": "2026-11-06T20:47:48.728152+08:00",
+    "pose": 18,
+    "focus": 272.0,
+    "success": true
+  },
+  {
+    "pose": 18,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:47:48.743935+08:00",
+    "action": "begin",
+    "target": 304.0,
+    "readback": {
+      "focus_readback": 272.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    }
+  },
+  {
+    "pose": 18,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:47:48.998420+08:00",
+    "action": "write_focus",
+    "target": 304.0,
+    "readback": {
+      "focus_readback": 304.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1,
+    "accepted": true
+  },
+  {
+    "pose": 18,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:47:50.630759+08:00",
+    "action": "verified",
+    "target": 304.0,
+    "readback": {
+      "focus_readback": 304.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1
+  },
+  {
+    "time": "2026-11-06T20:47:51.085380+08:00",
+    "pose": 18,
+    "focus": 304.0,
+    "success": true
+  },
+  {
+    "pose": 18,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:47:51.134305+08:00",
+    "action": "begin",
+    "target": 368.0,
+    "readback": {
+      "focus_readback": 304.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    }
+  },
+  {
+    "pose": 18,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:47:51.353194+08:00",
+    "action": "write_focus",
+    "target": 368.0,
+    "readback": {
+      "focus_readback": 368.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1,
+    "accepted": true
+  },
+  {
+    "pose": 18,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:47:52.983779+08:00",
+    "action": "verified",
+    "target": 368.0,
+    "readback": {
+      "focus_readback": 368.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1
+  },
+  {
+    "time": "2026-11-06T20:47:53.438124+08:00",
+    "pose": 18,
+    "focus": 368.0,
+    "success": true
+  },
+  {
+    "pose": 19,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:47:59.035709+08:00",
+    "action": "begin",
+    "target": 272.0,
+    "readback": {
+      "focus_readback": 368.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    }
+  },
+  {
+    "pose": 19,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:47:59.341311+08:00",
+    "action": "write_focus",
+    "target": 272.0,
+    "readback": {
+      "focus_readback": 272.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1,
+    "accepted": true
+  },
+  {
+    "pose": 19,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:48:00.972471+08:00",
+    "action": "verified",
+    "target": 272.0,
+    "readback": {
+      "focus_readback": 272.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1
+  },
+  {
+    "time": "2026-11-06T20:48:01.432091+08:00",
+    "pose": 19,
+    "focus": 272.0,
+    "success": true
+  },
+  {
+    "pose": 19,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:48:01.481086+08:00",
+    "action": "begin",
+    "target": 304.0,
+    "readback": {
+      "focus_readback": 272.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    }
+  },
+  {
+    "pose": 19,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:48:01.694976+08:00",
+    "action": "write_focus",
+    "target": 304.0,
+    "readback": {
+      "focus_readback": 304.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1,
+    "accepted": true
+  },
+  {
+    "pose": 19,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:48:03.328573+08:00",
+    "action": "verified",
+    "target": 304.0,
+    "readback": {
+      "focus_readback": 304.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1
+  },
+  {
+    "time": "2026-11-06T20:48:03.779252+08:00",
+    "pose": 19,
+    "focus": 304.0,
+    "success": true
+  },
+  {
+    "pose": 19,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:48:03.798068+08:00",
+    "action": "begin",
+    "target": 368.0,
+    "readback": {
+      "focus_readback": 304.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    }
+  },
+  {
+    "pose": 19,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:48:04.051016+08:00",
+    "action": "write_focus",
+    "target": 368.0,
+    "readback": {
+      "focus_readback": 368.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1,
+    "accepted": true
+  },
+  {
+    "pose": 19,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:48:05.682741+08:00",
+    "action": "verified",
+    "target": 368.0,
+    "readback": {
+      "focus_readback": 368.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1
+  },
+  {
+    "time": "2026-11-06T20:48:06.136406+08:00",
+    "pose": 19,
+    "focus": 368.0,
+    "success": true
+  },
+  {
+    "pose": 20,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:49:27.097605+08:00",
+    "action": "begin",
+    "target": 272.0,
+    "readback": {
+      "focus_readback": 368.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    }
+  },
+  {
+    "pose": 20,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:49:27.402051+08:00",
+    "action": "write_focus",
+    "target": 272.0,
+    "readback": {
+      "focus_readback": 272.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1,
+    "accepted": true
+  },
+  {
+    "pose": 20,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:49:29.036512+08:00",
+    "action": "verified",
+    "target": 272.0,
+    "readback": {
+      "focus_readback": 272.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1
+  },
+  {
+    "time": "2026-11-06T20:49:29.487604+08:00",
+    "pose": 20,
+    "focus": 272.0,
+    "success": true
+  },
+  {
+    "pose": 20,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:49:29.506025+08:00",
+    "action": "begin",
+    "target": 288.0,
+    "readback": {
+      "focus_readback": 272.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    }
+  },
+  {
+    "pose": 20,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:49:29.757702+08:00",
+    "action": "write_focus",
+    "target": 288.0,
+    "readback": {
+      "focus_readback": 288.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1,
+    "accepted": true
+  },
+  {
+    "pose": 20,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:49:31.392295+08:00",
+    "action": "verified",
+    "target": 288.0,
+    "readback": {
+      "focus_readback": 288.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1
+  },
+  {
+    "time": "2026-11-06T20:49:31.842750+08:00",
+    "pose": 20,
+    "focus": 288.0,
+    "success": true
+  },
+  {
+    "pose": 20,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:49:31.862347+08:00",
+    "action": "begin",
+    "target": 304.0,
+    "readback": {
+      "focus_readback": 288.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    }
+  },
+  {
+    "pose": 20,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:49:32.112618+08:00",
+    "action": "write_focus",
+    "target": 304.0,
+    "readback": {
+      "focus_readback": 304.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1,
+    "accepted": true
+  },
+  {
+    "pose": 20,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:49:33.745499+08:00",
+    "action": "verified",
+    "target": 304.0,
+    "readback": {
+      "focus_readback": 304.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1
+  },
+  {
+    "time": "2026-11-06T20:49:34.200343+08:00",
+    "pose": 20,
+    "focus": 304.0,
+    "success": true
+  },
+  {
+    "pose": 20,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:49:34.218484+08:00",
+    "action": "begin",
+    "target": 336.0,
+    "readback": {
+      "focus_readback": 304.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    }
+  },
+  {
+    "pose": 20,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:49:34.468563+08:00",
+    "action": "write_focus",
+    "target": 336.0,
+    "readback": {
+      "focus_readback": 336.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1,
+    "accepted": true
+  },
+  {
+    "pose": 20,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:49:36.101007+08:00",
+    "action": "verified",
+    "target": 336.0,
+    "readback": {
+      "focus_readback": 336.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1
+  },
+  {
+    "time": "2026-11-06T20:49:38.700622+08:00",
+    "pose": 20,
+    "focus": 336.0,
+    "success": false
+  },
+  {
+    "pose": 20,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:49:38.708403+08:00",
+    "action": "begin",
+    "target": 368.0,
+    "readback": {
+      "focus_readback": 336.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    }
+  },
+  {
+    "pose": 20,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:49:38.972569+08:00",
+    "action": "write_focus",
+    "target": 368.0,
+    "readback": {
+      "focus_readback": 368.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1,
+    "accepted": true
+  },
+  {
+    "pose": 20,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:49:40.606862+08:00",
+    "action": "verified",
+    "target": 368.0,
+    "readback": {
+      "focus_readback": 368.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1
+  },
+  {
+    "time": "2026-11-06T20:49:43.152078+08:00",
+    "pose": 20,
+    "focus": 368.0,
+    "success": false
+  },
+  {
+    "pose": 21,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:49:43.479145+08:00",
+    "action": "begin",
+    "target": 272.0,
+    "readback": {
+      "focus_readback": 368.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    }
+  },
+  {
+    "pose": 21,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:49:43.785050+08:00",
+    "action": "write_focus",
+    "target": 272.0,
+    "readback": {
+      "focus_readback": 272.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1,
+    "accepted": true
+  },
+  {
+    "pose": 21,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:49:45.419604+08:00",
+    "action": "verified",
+    "target": 272.0,
+    "readback": {
+      "focus_readback": 272.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1
+  },
+  {
+    "time": "2026-11-06T20:49:45.869630+08:00",
+    "pose": 21,
+    "focus": 272.0,
+    "success": true
+  },
+  {
+    "pose": 21,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:49:45.929962+08:00",
+    "action": "begin",
+    "target": 304.0,
+    "readback": {
+      "focus_readback": 272.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    }
+  },
+  {
+    "pose": 21,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:49:46.139270+08:00",
+    "action": "write_focus",
+    "target": 304.0,
+    "readback": {
+      "focus_readback": 304.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1,
+    "accepted": true
+  },
+  {
+    "pose": 21,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:49:47.773643+08:00",
+    "action": "verified",
+    "target": 304.0,
+    "readback": {
+      "focus_readback": 304.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1
+  },
+  {
+    "time": "2026-11-06T20:49:48.232224+08:00",
+    "pose": 21,
+    "focus": 304.0,
+    "success": true
+  },
+  {
+    "pose": 21,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:49:48.335102+08:00",
+    "action": "begin",
+    "target": 368.0,
+    "readback": {
+      "focus_readback": 304.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    }
+  },
+  {
+    "pose": 21,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:49:48.494037+08:00",
+    "action": "write_focus",
+    "target": 368.0,
+    "readback": {
+      "focus_readback": 368.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1,
+    "accepted": true
+  },
+  {
+    "pose": 21,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:49:50.130829+08:00",
+    "action": "verified",
+    "target": 368.0,
+    "readback": {
+      "focus_readback": 368.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1
+  },
+  {
+    "time": "2026-11-06T20:49:52.782580+08:00",
+    "pose": 21,
+    "focus": 368.0,
+    "success": false
+  },
+  {
+    "pose": 22,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:50:02.530171+08:00",
+    "action": "begin",
+    "target": 272.0,
+    "readback": {
+      "focus_readback": 368.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    }
+  },
+  {
+    "pose": 22,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:50:02.833754+08:00",
+    "action": "write_focus",
+    "target": 272.0,
+    "readback": {
+      "focus_readback": 272.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1,
+    "accepted": true
+  },
+  {
+    "pose": 22,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:50:04.464964+08:00",
+    "action": "verified",
+    "target": 272.0,
+    "readback": {
+      "focus_readback": 272.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1
+  },
+  {
+    "time": "2026-11-06T20:50:04.922376+08:00",
+    "pose": 22,
+    "focus": 272.0,
+    "success": true
+  },
+  {
+    "pose": 22,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:50:04.971162+08:00",
+    "action": "begin",
+    "target": 304.0,
+    "readback": {
+      "focus_readback": 272.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    }
+  },
+  {
+    "pose": 22,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:50:05.187646+08:00",
+    "action": "write_focus",
+    "target": 304.0,
+    "readback": {
+      "focus_readback": 304.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1,
+    "accepted": true
+  },
+  {
+    "pose": 22,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:50:06.822624+08:00",
+    "action": "verified",
+    "target": 304.0,
+    "readback": {
+      "focus_readback": 304.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1
+  },
+  {
+    "time": "2026-11-06T20:50:07.275691+08:00",
+    "pose": 22,
+    "focus": 304.0,
+    "success": true
+  },
+  {
+    "pose": 22,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:50:07.326398+08:00",
+    "action": "begin",
+    "target": 368.0,
+    "readback": {
+      "focus_readback": 304.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    }
+  },
+  {
+    "pose": 22,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:50:07.544955+08:00",
+    "action": "write_focus",
+    "target": 368.0,
+    "readback": {
+      "focus_readback": 368.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1,
+    "accepted": true
+  },
+  {
+    "pose": 22,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:50:09.178264+08:00",
+    "action": "verified",
+    "target": 368.0,
+    "readback": {
+      "focus_readback": 368.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1
+  },
+  {
+    "time": "2026-11-06T20:50:09.625064+08:00",
+    "pose": 22,
+    "focus": 368.0,
+    "success": true
+  },
+  {
+    "pose": 23,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:50:36.928425+08:00",
+    "action": "begin",
+    "target": 272.0,
+    "readback": {
+      "focus_readback": 368.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    }
+  },
+  {
+    "pose": 23,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:50:37.236906+08:00",
+    "action": "write_focus",
+    "target": 272.0,
+    "readback": {
+      "focus_readback": 272.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1,
+    "accepted": true
+  },
+  {
+    "pose": 23,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:50:38.872593+08:00",
+    "action": "verified",
+    "target": 272.0,
+    "readback": {
+      "focus_readback": 272.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1
+  },
+  {
+    "time": "2026-11-06T20:50:39.331212+08:00",
+    "pose": 23,
+    "focus": 272.0,
+    "success": true
+  },
+  {
+    "pose": 23,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:50:39.382094+08:00",
+    "action": "begin",
+    "target": 304.0,
+    "readback": {
+      "focus_readback": 272.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    }
+  },
+  {
+    "pose": 23,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:50:39.594393+08:00",
+    "action": "write_focus",
+    "target": 304.0,
+    "readback": {
+      "focus_readback": 304.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1,
+    "accepted": true
+  },
+  {
+    "pose": 23,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:50:41.227111+08:00",
+    "action": "verified",
+    "target": 304.0,
+    "readback": {
+      "focus_readback": 304.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1
+  },
+  {
+    "time": "2026-11-06T20:50:41.675017+08:00",
+    "pose": 23,
+    "focus": 304.0,
+    "success": true
+  },
+  {
+    "pose": 23,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:50:41.690399+08:00",
+    "action": "begin",
+    "target": 368.0,
+    "readback": {
+      "focus_readback": 304.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    }
+  },
+  {
+    "pose": 23,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:50:41.947860+08:00",
+    "action": "write_focus",
+    "target": 368.0,
+    "readback": {
+      "focus_readback": 368.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1,
+    "accepted": true
+  },
+  {
+    "pose": 23,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:50:43.583622+08:00",
+    "action": "verified",
+    "target": 368.0,
+    "readback": {
+      "focus_readback": 368.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1
+  },
+  {
+    "time": "2026-11-06T20:50:44.036575+08:00",
+    "pose": 23,
+    "focus": 368.0,
+    "success": true
+  },
+  {
+    "pose": 24,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:50:54.442004+08:00",
+    "action": "begin",
+    "target": 272.0,
+    "readback": {
+      "focus_readback": 368.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    }
+  },
+  {
+    "pose": 24,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:50:54.747916+08:00",
+    "action": "write_focus",
+    "target": 272.0,
+    "readback": {
+      "focus_readback": 272.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1,
+    "accepted": true
+  },
+  {
+    "pose": 24,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:50:56.378738+08:00",
+    "action": "verified",
+    "target": 272.0,
+    "readback": {
+      "focus_readback": 272.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1
+  },
+  {
+    "time": "2026-11-06T20:50:56.833094+08:00",
+    "pose": 24,
+    "focus": 272.0,
+    "success": true
+  },
+  {
+    "pose": 24,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:50:56.852000+08:00",
+    "action": "begin",
+    "target": 304.0,
+    "readback": {
+      "focus_readback": 272.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    }
+  },
+  {
+    "pose": 24,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:50:57.101286+08:00",
+    "action": "write_focus",
+    "target": 304.0,
+    "readback": {
+      "focus_readback": 304.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1,
+    "accepted": true
+  },
+  {
+    "pose": 24,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:50:58.737220+08:00",
+    "action": "verified",
+    "target": 304.0,
+    "readback": {
+      "focus_readback": 304.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1
+  },
+  {
+    "time": "2026-11-06T20:50:59.189982+08:00",
+    "pose": 24,
+    "focus": 304.0,
+    "success": true
+  },
+  {
+    "pose": 24,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:50:59.208360+08:00",
+    "action": "begin",
+    "target": 368.0,
+    "readback": {
+      "focus_readback": 304.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    }
+  },
+  {
+    "pose": 24,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:50:59.455931+08:00",
+    "action": "write_focus",
+    "target": 368.0,
+    "readback": {
+      "focus_readback": 368.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1,
+    "accepted": true
+  },
+  {
+    "pose": 24,
+    "kind": "focus_control",
+    "time": "2026-11-06T20:51:01.092460+08:00",
+    "action": "verified",
+    "target": 368.0,
+    "readback": {
+      "focus_readback": 368.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "attempt": 1
+  },
+  {
+    "time": "2026-11-06T20:51:01.541372+08:00",
+    "pose": 24,
+    "focus": 368.0,
+    "success": true
+  }
+]

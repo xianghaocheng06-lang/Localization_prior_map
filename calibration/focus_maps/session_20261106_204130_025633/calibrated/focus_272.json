@@ -1,0 +1,150 @@
+{
+  "camera_matrix": [
+    [
+      535.5547865681513,
+      0.0,
+      318.0874243071883
+    ],
+    [
+      0.0,
+      532.6677969889814,
+      223.82913931803918
+    ],
+    [
+      0.0,
+      0.0,
+      1.0
+    ]
+  ],
+  "dist_coeffs": [
+    0.14198473708259934,
+    -0.2256532972269173,
+    -0.0002238617976791762,
+    -0.0016152563189029345,
+    -0.15788824156168177
+  ],
+  "rms": 0.31731136138926636,
+  "model": "opencv_pinhole",
+  "image_size": [
+    640,
+    480
+  ],
+  "flip_camera_180": true,
+  "inner_corners": [
+    9,
+    6
+  ],
+  "square_size_mm": 20.0,
+  "num_images": 20,
+  "created_at": "2026-11-06T20:51:08.961586+08:00",
+  "opencv_version": "4.12.0",
+  "source_directory": "D:\\Localization_prior_map\\红外+视觉+新机翼模型定位\\calibration\\focus_maps\\session_20261106_204130_025633\\train\\focus_272",
+  "views": [
+    {
+      "file": "pose_0001.png",
+      "status": "used",
+      "rmse_px": 0.3966442048549652
+    },
+    {
+      "file": "pose_0002.png",
+      "status": "used",
+      "rmse_px": 0.3040010929107666
+    },
+    {
+      "file": "pose_0003.png",
+      "status": "used",
+      "rmse_px": 0.39296379685401917
+    },
+    {
+      "file": "pose_0004.png",
+      "status": "used",
+      "rmse_px": 0.283834844827652
+    },
+    {
+      "file": "pose_0006.png",
+      "status": "used",
+      "rmse_px": 0.36991173028945923
+    },
+    {
+      "file": "pose_0007.png",
+      "status": "used",
+      "rmse_px": 0.38330700993537903
+    },
+    {
+      "file": "pose_0008.png",
+      "status": "used",
+      "rmse_px": 0.3076128363609314
+    },
+    {
+      "file": "pose_0009.png",
+      "status": "used",
+      "rmse_px": 0.27688467502593994
+    },
+    {
+      "file": "pose_0011.png",
+      "status": "used",
+      "rmse_px": 0.29665958881378174
+    },
+    {
+      "file": "pose_0012.png",
+      "status": "used",
+      "rmse_px": 0.22367720305919647
+    },
+    {
+      "file": "pose_0013.png",
+      "status": "used",
+      "rmse_px": 0.26171883940696716
+    },
+    {
+      "file": "pose_0014.png",
+      "status": "used",
+      "rmse_px": 0.3426891267299652
+    },
+    {
+      "file": "pose_0016.png",
+      "status": "used",
+      "rmse_px": 0.29517024755477905
+    },
+    {
+      "file": "pose_0017.png",
+      "status": "used",
+      "rmse_px": 0.31084948778152466
+    },
+    {
+      "file": "pose_0018.png",
+      "status": "used",
+      "rmse_px": 0.42239910364151
+    },
+    {
+      "file": "pose_0019.png",
+      "status": "used",
+      "rmse_px": 0.2861955165863037
+    },
+    {
+      "file": "pose_0021.png",
+      "status": "used",
+      "rmse_px": 0.2669248878955841
+    },
+    {
+      "file": "pose_0022.png",
+      "status": "used",
+      "rmse_px": 0.3184385299682617
+    },
+    {
+      "file": "pose_0023.png",
+      "status": "used",
+      "rmse_px": 0.26374688744544983
+    },
+    {
+      "file": "pose_0024.png",
+      "status": "used",
+      "rmse_px": 0.25235769152641296
+    }
+  ],
+  "warnings": [],
+  "camera_index": 1,
+  "focus_position": 272.0,
+  "focus_lock_verified": true,
+  "focus_control_backend": "DSHOW",
+  "focus_note": "Manual control and driver readback checked; not per-exposure encoder metadata."
+}

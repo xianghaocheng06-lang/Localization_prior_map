@@ -1,0 +1,62 @@
+{
+  "saved_images": 6,
+  "saved_focus_readbacks": [
+    259.0
+  ],
+  "accepted_focus_requests": 356,
+  "backend": "DSHOW",
+  "same_focus_comparisons": 5,
+  "comparisons": [
+    {
+      "focus_readback": 259.0,
+      "reference_sample": 1,
+      "sample": 2,
+      "corner_rms_px": 0.062192370035250064,
+      "center_shift_px": 0.04906703954939813,
+      "relative_spread_change_percent": -0.002347859462237256,
+      "reference_sharpness": 5817.889066834876,
+      "sharpness": 5823.771261615616
+    },
+    {
+      "focus_readback": 259.0,
+      "reference_sample": 1,
+      "sample": 3,
+      "corner_rms_px": 0.09158379093489045,
+      "center_shift_px": 0.07492195492155025,
+      "relative_spread_change_percent": -0.01051501201860816,
+      "reference_sharpness": 5817.889066834876,
+      "sharpness": 5751.895618393235
+    },
+    {
+      "focus_readback": 259.0,
+      "reference_sample": 1,
+      "sample": 4,
+      "corner_rms_px": 0.25874150689656283,
+      "center_shift_px": 0.21950318565821075,
+      "relative_spread_change_percent": 0.040313967162664,
+      "reference_sharpness": 5817.889066834876,
+      "sharpness": 5756.969026326319
+    },
+    {
+      "focus_readback": 259.0,
+      "reference_sample": 1,
+      "sample": 5,
+      "corner_rms_px": 0.24261034274087284,
+      "center_shift_px": 0.20724458280364133,
+      "relative_spread_change_percent": 0.0355484823940877,
+      "reference_sharpness": 5817.889066834876,
+      "sharpness": 5751.865188591787
+    },
+    {
+      "focus_readback": 259.0,
+      "reference_sample": 1,
+      "sample": 6,
+      "corner_rms_px": 0.24107135957782005,
+      "center_shift_px": 0.20542590336224276,
+      "relative_spread_change_percent": 0.033446975344486596,
+      "reference_sharpness": 5817.889066834876,
+      "sharpness": 5710.826519376961
+    }
+  ],
+  "interpretation": "Driver readback and fixed-scene repeatability evidence only; not a focus encoder or intrinsics calibration."
+}

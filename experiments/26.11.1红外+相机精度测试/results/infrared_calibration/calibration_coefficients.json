@@ -1,0 +1,215 @@
+{
+  "units": "mm",
+  "reference_plane_z_W_mm": -75.0,
+  "retained_groups": [
+    1,
+    2,
+    3,
+    5,
+    7,
+    8,
+    9,
+    10,
+    12,
+    20,
+    21,
+    22
+  ],
+  "excluded_groups": [
+    17,
+    19
+  ],
+  "plane_distance_output": {
+    "model": "linear",
+    "input": "original_plane_distance_mm",
+    "output": "corrected_plane_distance_mm",
+    "slope": 1.1400983837616825,
+    "intercept_mm": -8.629503498148393,
+    "training_input_range_mm": [
+      43.81647482418659,
+      119.7503520873444
+    ],
+    "training_reference_range_mm": [
+      42.14291141358126,
+      127.07334920555118
+    ],
+    "preserves_original_normal": true,
+    "usage": "Apply once to the original plane-distance output; do not stack with sensor refits"
+  },
+  "sensors": [
+    {
+      "sensor": 1,
+      "model": "linear",
+      "input": "raw_mm",
+      "output": "ray_range_mm",
+      "slope": 0.9845158807634751,
+      "intercept_mm": -6.483717087163973,
+      "old_slope": 0.9513000000000003,
+      "old_intercept_mm": -7.757800000000002,
+      "origin_R_mm": [
+        0.0,
+        -14.800000131056638,
+        10.80000015381666
+      ],
+      "direction_R_unit": [
+        0.0,
+        -0.2589693126966554,
+        0.965885549680407
+      ],
+      "geometry_max_abs_residual_mm": 6.628773974171054e-07,
+      "raw_training_range_mm": [
+        59.0,
+        138.0
+      ],
+      "gt_training_range_mm": [
+        51.30693820843259,
+        129.9354979376781
+      ],
+      "original": {
+        "n": 12,
+        "bias": -4.465575456193217,
+        "mae": 4.465575456193217,
+        "rmse": 4.748544747784891,
+        "median_abs": 4.525587716570442,
+        "p95_abs": 7.061884019373841,
+        "max_abs": 7.853867008113099
+      },
+      "training": {
+        "n": 12,
+        "bias": 4.500103993147301e-14,
+        "mae": 1.0587419465755055,
+        "rmse": 1.4270450744282093,
+        "median_abs": 0.6251901461296754,
+        "p95_abs": 2.723248123298972,
+        "max_abs": 3.4242754227469447
+      },
+      "leave_one_out": {
+        "n": 12,
+        "bias": -0.02088971337378946,
+        "mae": 1.2375502451956681,
+        "rmse": 1.6237483202885818,
+        "median_abs": 0.8199408196793527,
+        "p95_abs": 2.994623188388533,
+        "max_abs": 3.736343637200605
+      }
+    },
+    {
+      "sensor": 2,
+      "model": "linear",
+      "input": "raw_mm",
+      "output": "ray_range_mm",
+      "slope": 1.4134059890087947,
+      "intercept_mm": -40.19882200610668,
+      "old_slope": 0.9719000000000002,
+      "old_intercept_mm": -9.824700000000012,
+      "origin_R_mm": [
+        -6.700000058970232,
+        5.500000000000002,
+        12.299999889677624
+      ],
+      "direction_R_unit": [
+        -0.5000109988315602,
+        -3.601011067740578e-17,
+        0.8660190535129499
+      ],
+      "geometry_max_abs_residual_mm": 4.96044251008243e-07,
+      "raw_training_range_mm": [
+        49.0,
+        127.0
+      ],
+      "gt_training_range_mm": [
+        36.174953734750225,
+        155.53219484054588
+      ],
+      "original": {
+        "n": 12,
+        "bias": -11.31140178947365,
+        "mae": 11.764842097697917,
+        "rmse": 18.216783980492565,
+        "median_abs": 4.2740198500442474,
+        "p95_abs": 40.18124683719906,
+        "max_abs": 41.925594840545884
+      },
+      "training": {
+        "n": 12,
+        "bias": 2.9013828376870755e-14,
+        "mae": 7.326848306057525,
+        "rmse": 9.106919364790588,
+        "median_abs": 6.16082513590726,
+        "p95_abs": 15.69824970896301,
+        "max_abs": 16.228456242535657
+      },
+      "leave_one_out": {
+        "n": 12,
+        "bias": -0.5070066141922412,
+        "mae": 9.039154344987736,
+        "rmse": 11.312151356829885,
+        "median_abs": 7.133408742524701,
+        "p95_abs": 19.741421790204555,
+        "max_abs": 20.964258343959187
+      }
+    },
+    {
+      "sensor": 3,
+      "model": "linear",
+      "input": "raw_mm",
+      "output": "ray_range_mm",
+      "slope": 1.0047955161611428,
+      "intercept_mm": -11.416922249600908,
+      "old_slope": 0.9631000000000001,
+      "old_intercept_mm": -8.879700000000001,
+      "origin_R_mm": [
+        8.700000013450227,
+        5.500000000000002,
+        12.299999980639072
+      ],
+      "direction_R_unit": [
+        0.500010999960596,
+        -4.1021473114390997e-17,
+        0.8660190528610816
+      ],
+      "geometry_max_abs_residual_mm": 2.2882241523802804e-07,
+      "raw_training_range_mm": [
+        48.0,
+        185.0
+      ],
+      "gt_training_range_mm": [
+        37.43867448239124,
+        175.3369724103733
+      ],
+      "original": {
+        "n": 12,
+        "bias": -1.8686039580931457,
+        "mae": 1.8686039580931457,
+        "rmse": 2.641231279686686,
+        "median_abs": 1.170878352931794,
+        "p95_abs": 5.437884833917312,
+        "max_abs": 6.04317241037333
+      },
+      "training": {
+        "n": 12,
+        "bias": 4.144832625267251e-14,
+        "mae": 0.7953620650513346,
+        "rmse": 0.9547833830187614,
+        "median_abs": 0.6670745216406004,
+        "p95_abs": 1.879830921511715,
+        "max_abs": 1.9343681442585705
+      },
+      "leave_one_out": {
+        "n": 12,
+        "bias": -0.06250377697427527,
+        "mae": 0.9756378579208403,
+        "rmse": 1.1598169681030617,
+        "median_abs": 0.8284968926674949,
+        "p95_abs": 2.16236920404207,
+        "max_abs": 2.2117265211616086
+      }
+    }
+  ],
+  "limitations": [
+    "Leave-one-out validation is conditional on original-error filtering, not an independent test set",
+    "Mounting geometry recovered from recorded points is held fixed",
+    "Sensor 2 raw readings do not uniquely explain the mocap ranges in this batch",
+    "Coefficients use millimetres; apply to original raw readings, replacing old range calibration"
+  ]
+}

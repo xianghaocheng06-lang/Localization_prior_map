@@ -1,0 +1,13 @@
+{
+  "max_recorded_ray_geometry_residual_mm": 6.628773974171054e-07,
+  "max_true_ray_plane_residual_mm": 2.842170943040401e-14,
+  "max_original_plane_reconstruction_error_mm": 4.796232531134592e-07,
+  "max_original_normal_angle_reconstruction_error_deg": 5.47793693961296e-07,
+  "retained_groups_all_within_original_threshold": true,
+  "excluded_groups_all_above_original_threshold": true,
+  "excluded_groups_have_no_corrected_predictions": true,
+  "loo_training_groups_per_fold": 11,
+  "all_loo_folds_exclude_held_out_group": true,
+  "max_previous_mocap_distance_difference_mm": 1.4210854715202004e-14,
+  "checks_passed": true
+}

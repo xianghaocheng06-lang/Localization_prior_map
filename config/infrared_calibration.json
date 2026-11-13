@@ -1,0 +1,5 @@
+{
+  "S1": {"slope": 0.9366, "intercept_mm": -14.1213},
+  "S2": {"slope": 1.3737, "intercept_mm": -54.0850},
+  "S3": {"slope": 0.9677, "intercept_mm": -20.3392}
+}

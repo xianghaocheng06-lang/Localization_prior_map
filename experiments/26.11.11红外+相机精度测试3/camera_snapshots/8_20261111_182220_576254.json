@@ -1,0 +1,47 @@
+{
+  "focus_map_file": "D:\\Localization_prior_map\\红外+视觉+新机翼模型定位\\calibration\\focus_maps\\session_20261106_204130_025633\\calibrated\\focus_map.json",
+  "focus_position": 496.0,
+  "camera_matrix": [
+    [
+      573.7061141750218,
+      0.0,
+      317.0849006048256
+    ],
+    [
+      0.0,
+      569.8868961044531,
+      222.6675703926891
+    ],
+    [
+      0.0,
+      0.0,
+      1.0
+    ]
+  ],
+  "dist_coeffs": [
+    0.16887460705486676,
+    -0.5272255970063582,
+    4.1831160018455775e-05,
+    -0.002336061990475321,
+    0.21769824006673932
+  ],
+  "tag_centers_px": [
+    [
+      321.64749186107565,
+      357.7011301679497
+    ]
+  ],
+  "detected_tag_ids": [
+    5
+  ],
+  "center_inlier_ids": [
+    5
+  ],
+  "tag_weights": [
+    1.0
+  ],
+  "vision_status": "VALID",
+  "note": "Focus is a stable driver readback; not synchronized per-exposure encoder metadata.",
+  "group_id": "8",
+  "snapshot_at": "2026-11-11T18:22:20.513+08:00"
+}

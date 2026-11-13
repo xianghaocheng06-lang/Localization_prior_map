@@ -1,0 +1,16 @@
+{
+  "wing": {
+    "original_triangles": 1009812,
+    "display_triangles": 15147,
+    "original_surface_area_mm2": 3378893.972761335,
+    "display_surface_area_mm2": 3379521.5137689863,
+    "relative_surface_area_change": 0.00018572379385395043
+  },
+  "robot": {
+    "original_triangles": 181642,
+    "display_triangles": 3631,
+    "original_surface_area_mm2": 73722.99640573226,
+    "display_surface_area_mm2": 71692.1133341633,
+    "relative_surface_area_change": 0.027547484103766836
+  }
+}

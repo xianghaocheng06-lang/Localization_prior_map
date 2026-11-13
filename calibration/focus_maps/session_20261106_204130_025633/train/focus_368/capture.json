@@ -1,0 +1,128 @@
+{
+  "camera_index": 1,
+  "image_size": [
+    640,
+    480
+  ],
+  "camera_fps": 15,
+  "flip_camera_180": true,
+  "inner_corners": [
+    9,
+    6
+  ],
+  "square_size_mm": 20.0,
+  "backend": "DSHOW",
+  "images_already_oriented": true,
+  "focus_position": 368.0,
+  "focus_lock_verified": true,
+  "focus_samples": {
+    "pose_0001.png": {
+      "focus_readback": 368.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL",
+      "sharpness": 300.54739446077156
+    },
+    "pose_0002.png": {
+      "focus_readback": 368.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL",
+      "sharpness": 276.51137234338137
+    },
+    "pose_0003.png": {
+      "focus_readback": 368.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL",
+      "sharpness": 280.0256540932958
+    },
+    "pose_0004.png": {
+      "focus_readback": 368.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL",
+      "sharpness": 279.7585524346002
+    },
+    "pose_0007.png": {
+      "focus_readback": 368.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL",
+      "sharpness": 282.9740475063385
+    },
+    "pose_0008.png": {
+      "focus_readback": 368.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL",
+      "sharpness": 199.72334491567514
+    },
+    "pose_0009.png": {
+      "focus_readback": 368.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL",
+      "sharpness": 444.0520575622637
+    },
+    "pose_0011.png": {
+      "focus_readback": 368.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL",
+      "sharpness": 501.947940564785
+    },
+    "pose_0012.png": {
+      "focus_readback": 368.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL",
+      "sharpness": 286.71638895016633
+    },
+    "pose_0013.png": {
+      "focus_readback": 368.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL",
+      "sharpness": 547.879184957299
+    },
+    "pose_0014.png": {
+      "focus_readback": 368.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL",
+      "sharpness": 419.7473418779752
+    },
+    "pose_0016.png": {
+      "focus_readback": 368.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL",
+      "sharpness": 548.3151530129591
+    },
+    "pose_0017.png": {
+      "focus_readback": 368.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL",
+      "sharpness": 1033.5635462199564
+    },
+    "pose_0018.png": {
+      "focus_readback": 368.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL",
+      "sharpness": 723.2155309406772
+    },
+    "pose_0019.png": {
+      "focus_readback": 368.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL",
+      "sharpness": 456.66050963860715
+    },
+    "pose_0022.png": {
+      "focus_readback": 368.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL",
+      "sharpness": 423.4075439454976
+    },
+    "pose_0023.png": {
+      "focus_readback": 368.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL",
+      "sharpness": 678.3361548604365
+    },
+    "pose_0024.png": {
+      "focus_readback": 368.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL",
+      "sharpness": 456.2172335858208
+    }
+  }
+}

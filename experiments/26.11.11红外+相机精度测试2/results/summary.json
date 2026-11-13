@@ -1,0 +1,71 @@
+{
+  "total": 9,
+  "wing_reference_group": 7,
+  "wing_reference_rms_mm": 4.1839587316572615,
+  "excluded_groups": [],
+  "camera_groups": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "ir_groups": [],
+  "camera_position_error_mm": {
+    "n": 9,
+    "mean": 8.245925061964577,
+    "median": 6.833287892823489,
+    "rmse": 9.046032944287722,
+    "p95": 13.961533138127772,
+    "maximum": 15.582410967331219
+  },
+  "camera_rotation_error_deg": {
+    "n": 9,
+    "mean": 4.661497352466999,
+    "median": 3.4762768713099454,
+    "rmse": 5.493216099756993,
+    "p95": 9.475794993453516,
+    "maximum": 11.11992305471769
+  },
+  "ir_distance_error_abs_mm": {
+    "n": 0,
+    "mean": null,
+    "median": null,
+    "rmse": null,
+    "p95": null,
+    "maximum": null
+  },
+  "ir_normal_error_deg": {
+    "n": 0,
+    "mean": null,
+    "median": null,
+    "rmse": null,
+    "p95": null,
+    "maximum": null
+  },
+  "excluded_mocap_groups": [
+    10
+  ],
+  "fixed_replay": {
+    "camera_position_error_mm": {
+      "n": 9,
+      "mean": 8.978707966292674,
+      "median": 8.252826040969406,
+      "rmse": 9.568044529520574,
+      "p95": 14.211420415256756,
+      "maximum": 15.59216274583821
+    },
+    "camera_rotation_error_deg": {
+      "n": 9,
+      "mean": 4.597418595759665,
+      "median": 3.540671224797993,
+      "rmse": 5.383149373446491,
+      "p95": 9.236885661050398,
+      "maximum": 11.432806638171481
+    }
+  }
+}

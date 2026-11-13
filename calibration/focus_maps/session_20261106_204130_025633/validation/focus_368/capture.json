@@ -1,0 +1,32 @@
+{
+  "camera_index": 1,
+  "image_size": [
+    640,
+    480
+  ],
+  "camera_fps": 15,
+  "flip_camera_180": true,
+  "inner_corners": [
+    9,
+    6
+  ],
+  "square_size_mm": 20.0,
+  "backend": "DSHOW",
+  "images_already_oriented": true,
+  "focus_position": 368.0,
+  "focus_lock_verified": true,
+  "focus_samples": {
+    "pose_0005.png": {
+      "focus_readback": 368.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL",
+      "sharpness": 388.8736669169405
+    },
+    "pose_0010.png": {
+      "focus_readback": 368.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL",
+      "sharpness": 483.28433126393
+    }
+  }
+}

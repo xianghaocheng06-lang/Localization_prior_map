@@ -1,0 +1,9 @@
+{
+  "mean_old_to_new_camera_frame_shift_mm": [
+    -0.6510238248149567,
+    -2.5667142157832283,
+    5.4507596105488565
+  ],
+  "mean_tag_distance_mm": 108.58591407184714,
+  "approx_focal_scale_depth_shift_mm": -4.249095586734275
+}

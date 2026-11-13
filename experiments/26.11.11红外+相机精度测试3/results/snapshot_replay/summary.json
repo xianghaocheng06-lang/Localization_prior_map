@@ -1,0 +1,51 @@
+{
+  "total": 10,
+  "wing_reference_group": 7,
+  "wing_reference_rms_mm": 4.224877058233448,
+  "excluded_groups": [],
+  "camera_groups": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "ir_groups": [],
+  "camera_position_error_mm": {
+    "n": 10,
+    "mean": 9.119416064289089,
+    "median": 4.314168558042886,
+    "rmse": 16.41187135564161,
+    "p95": 32.75145468708321,
+    "maximum": 48.974504025411235
+  },
+  "camera_rotation_error_deg": {
+    "n": 10,
+    "mean": 5.517746122631275,
+    "median": 3.151631386824377,
+    "rmse": 8.620785979848748,
+    "p95": 17.502093268592503,
+    "maximum": 24.134797982230925
+  },
+  "ir_distance_error_abs_mm": {
+    "n": 0,
+    "mean": null,
+    "median": null,
+    "rmse": null,
+    "p95": null,
+    "maximum": null
+  },
+  "ir_normal_error_deg": {
+    "n": 0,
+    "mean": null,
+    "median": null,
+    "rmse": null,
+    "p95": null,
+    "maximum": null
+  }
+}

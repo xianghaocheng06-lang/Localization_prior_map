@@ -1,0 +1,23 @@
+[
+  {
+    "sample": 1,
+    "image": "sample_001.png",
+    "time": "2026-11-06T19:53:26.433678+08:00",
+    "focus_readback": 359.0,
+    "autofocus_readback": 2.0,
+    "autofocus_mode": "MANUAL",
+    "requested_focus": 359.0,
+    "manual_set_request_accepted": true,
+    "return_focus": 359.0,
+    "seconds_since_request": 7.344107499986421,
+    "before_read": {
+      "focus_readback": 359.0,
+      "autofocus_readback": 2.0,
+      "autofocus_mode": "MANUAL"
+    },
+    "recent_focus_min": 359.0,
+    "recent_focus_max": 359.0,
+    "sharpness": 144.9533263909976,
+    "corners": null
+  }
+]

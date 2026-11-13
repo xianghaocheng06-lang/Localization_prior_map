@@ -1,0 +1,19 @@
+{
+  "camera_index": 1,
+  "backend": "DSHOW",
+  "image_size": [
+    640,
+    480
+  ],
+  "flip_camera_180": true,
+  "inner_corners": [
+    9,
+    6
+  ],
+  "initial_readback": {
+    "focus_readback": 144.0,
+    "autofocus_readback": 2.0,
+    "autofocus_mode": "MANUAL"
+  },
+  "note": "Readback is a driver property, not verified physical or per-exposure metadata. Scene must stay fixed."
+}

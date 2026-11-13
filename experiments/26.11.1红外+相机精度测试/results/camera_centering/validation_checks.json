@@ -1,0 +1,14 @@
+{
+  "n_valid": 29,
+  "excluded_vision_groups": [
+    8
+  ],
+  "max_abs_centered_position_mean_mm": 6.125368411725002e-17,
+  "covariance_invariance_max_abs_mm2": 2.498001805406602e-16,
+  "mse_decomposition_abs_error_mm2": 2.1316282072803006e-14,
+  "raw_norm_vs_previous_analysis_max_abs_mm": 1.7763568394002505e-15,
+  "rotation_norm_vs_previous_analysis_max_abs_deg": 1.7763568394002505e-15,
+  "fixed_world_offset_vs_camera_offset_raw_norm_difference_mm": 1.7763568394002505e-14,
+  "so3_multiplicative_correction_verified": true,
+  "passed": true
+}

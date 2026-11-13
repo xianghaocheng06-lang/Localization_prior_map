@@ -1,0 +1,15 @@
+{
+  "exact_synthetic_correspondence_recoveries": 48,
+  "passed": true,
+  "all_groups_have_24_candidates": true,
+  "all_3_marker_groups_have_4_subsets_times_6_permutations": true,
+  "max_csv_extrinsic_chain_error_mm": 0.0,
+  "max_csv_robot_chain_error_mm": 7.619999990993165e-07,
+  "max_so3_orthogonality_error": 3.552713678800501e-15,
+  "max_ir_plane_point_residual_mm": 4.823047135005254e-07,
+  "max_ir_distance_coefficient_difference_mm": 4.257819341546565e-08,
+  "max_ir_normal_norm_difference": 5.16189424537572e-10,
+  "max_inverse_roundtrip_error_mm": 1.4210854715202004e-13,
+  "all_ir_hits_positive_robot_z": true,
+  "checks_passed": true
+}

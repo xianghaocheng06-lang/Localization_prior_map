@@ -1,0 +1,301 @@
+{
+  "camera_matrix": [
+    [
+      532.9120333523549,
+      0.0,
+      316.93273077227093
+    ],
+    [
+      0.0,
+      529.2274446407482,
+      230.26321508946063
+    ],
+    [
+      0.0,
+      0.0,
+      1.0
+    ]
+  ],
+  "dist_coeffs": [
+    0.1765029518978293,
+    -0.5301708207182548,
+    0.0009949180026753918,
+    -0.005599017067265771,
+    0.4643765181132091
+  ],
+  "rms": 0.5965488549949973,
+  "model": "opencv_pinhole",
+  "image_size": [
+    640,
+    480
+  ],
+  "flip_camera_180": true,
+  "inner_corners": [
+    9,
+    6
+  ],
+  "square_size_mm": 20.0,
+  "num_images": 51,
+  "created_at": "2026-11-06T18:56:25.731438+08:00",
+  "opencv_version": "4.12.0",
+  "source_directory": "D:\\Localization_prior_map\\红外+视觉+新机翼模型定位\\calibration\\images\\session_20261106_184956_523405",
+  "views": [
+    {
+      "file": "frame_0001.png",
+      "status": "used",
+      "rmse_px": 0.4229160249233246
+    },
+    {
+      "file": "frame_0002.png",
+      "status": "used",
+      "rmse_px": 0.4378100633621216
+    },
+    {
+      "file": "frame_0003.png",
+      "status": "used",
+      "rmse_px": 0.3930414617061615
+    },
+    {
+      "file": "frame_0004.png",
+      "status": "used",
+      "rmse_px": 0.454719215631485
+    },
+    {
+      "file": "frame_0005.png",
+      "status": "used",
+      "rmse_px": 0.3472137153148651
+    },
+    {
+      "file": "frame_0006.png",
+      "status": "used",
+      "rmse_px": 0.25923144817352295
+    },
+    {
+      "file": "frame_0007.png",
+      "status": "used",
+      "rmse_px": 0.2933468520641327
+    },
+    {
+      "file": "frame_0008.png",
+      "status": "used",
+      "rmse_px": 0.295763224363327
+    },
+    {
+      "file": "frame_0009.png",
+      "status": "used",
+      "rmse_px": 0.48057621717453003
+    },
+    {
+      "file": "frame_0010.png",
+      "status": "used",
+      "rmse_px": 0.4505302309989929
+    },
+    {
+      "file": "frame_0011.png",
+      "status": "used",
+      "rmse_px": 0.385916143655777
+    },
+    {
+      "file": "frame_0012.png",
+      "status": "used",
+      "rmse_px": 0.3739825487136841
+    },
+    {
+      "file": "frame_0013.png",
+      "status": "used",
+      "rmse_px": 0.7157195806503296
+    },
+    {
+      "file": "frame_0014.png",
+      "status": "used",
+      "rmse_px": 0.45730045437812805
+    },
+    {
+      "file": "frame_0015.png",
+      "status": "used",
+      "rmse_px": 0.742439329624176
+    },
+    {
+      "file": "frame_0016.png",
+      "status": "used",
+      "rmse_px": 0.5450844168663025
+    },
+    {
+      "file": "frame_0017.png",
+      "status": "used",
+      "rmse_px": 0.595295250415802
+    },
+    {
+      "file": "frame_0018.png",
+      "status": "used",
+      "rmse_px": 0.7565649151802063
+    },
+    {
+      "file": "frame_0019.png",
+      "status": "used",
+      "rmse_px": 0.5698874592781067
+    },
+    {
+      "file": "frame_0020.png",
+      "status": "used",
+      "rmse_px": 0.49538856744766235
+    },
+    {
+      "file": "frame_0021.png",
+      "status": "used",
+      "rmse_px": 0.45937275886535645
+    },
+    {
+      "file": "frame_0022.png",
+      "status": "used",
+      "rmse_px": 1.8275299072265625
+    },
+    {
+      "file": "frame_0023.png",
+      "status": "used",
+      "rmse_px": 0.34924086928367615
+    },
+    {
+      "file": "frame_0024.png",
+      "status": "used",
+      "rmse_px": 0.9108544588088989
+    },
+    {
+      "file": "frame_0025.png",
+      "status": "used",
+      "rmse_px": 0.5560067296028137
+    },
+    {
+      "file": "frame_0026.png",
+      "status": "used",
+      "rmse_px": 0.6698241829872131
+    },
+    {
+      "file": "frame_0027.png",
+      "status": "used",
+      "rmse_px": 0.49233490228652954
+    },
+    {
+      "file": "frame_0028.png",
+      "status": "used",
+      "rmse_px": 0.5156269669532776
+    },
+    {
+      "file": "frame_0029.png",
+      "status": "used",
+      "rmse_px": 0.5067932605743408
+    },
+    {
+      "file": "frame_0030.png",
+      "status": "used",
+      "rmse_px": 0.4450947046279907
+    },
+    {
+      "file": "frame_0031.png",
+      "status": "used",
+      "rmse_px": 0.48858535289764404
+    },
+    {
+      "file": "frame_0032.png",
+      "status": "used",
+      "rmse_px": 0.4887121319770813
+    },
+    {
+      "file": "frame_0033.png",
+      "status": "used",
+      "rmse_px": 0.5878896713256836
+    },
+    {
+      "file": "frame_0034.png",
+      "status": "used",
+      "rmse_px": 0.6209836006164551
+    },
+    {
+      "file": "frame_0035.png",
+      "status": "used",
+      "rmse_px": 0.7598468661308289
+    },
+    {
+      "file": "frame_0036.png",
+      "status": "used",
+      "rmse_px": 0.8489378094673157
+    },
+    {
+      "file": "frame_0037.png",
+      "status": "used",
+      "rmse_px": 0.5713883638381958
+    },
+    {
+      "file": "frame_0038.png",
+      "status": "used",
+      "rmse_px": 0.5819041728973389
+    },
+    {
+      "file": "frame_0039.png",
+      "status": "used",
+      "rmse_px": 0.5902502536773682
+    },
+    {
+      "file": "frame_0040.png",
+      "status": "used",
+      "rmse_px": 0.4519377648830414
+    },
+    {
+      "file": "frame_0041.png",
+      "status": "used",
+      "rmse_px": 0.39521917700767517
+    },
+    {
+      "file": "frame_0042.png",
+      "status": "used",
+      "rmse_px": 0.49074503779411316
+    },
+    {
+      "file": "frame_0043.png",
+      "status": "used",
+      "rmse_px": 0.7545837163925171
+    },
+    {
+      "file": "frame_0044.png",
+      "status": "used",
+      "rmse_px": 0.8023084998130798
+    },
+    {
+      "file": "frame_0045.png",
+      "status": "used",
+      "rmse_px": 0.37135225534439087
+    },
+    {
+      "file": "frame_0046.png",
+      "status": "used",
+      "rmse_px": 0.4128659963607788
+    },
+    {
+      "file": "frame_0047.png",
+      "status": "used",
+      "rmse_px": 0.36744698882102966
+    },
+    {
+      "file": "frame_0048.png",
+      "status": "used",
+      "rmse_px": 0.4836115837097168
+    },
+    {
+      "file": "frame_0049.png",
+      "status": "used",
+      "rmse_px": 0.7814643383026123
+    },
+    {
+      "file": "frame_0050.png",
+      "status": "used",
+      "rmse_px": 0.4995900094509125
+    },
+    {
+      "file": "frame_0051.png",
+      "status": "used",
+      "rmse_px": 0.41369596123695374
+    }
+  ],
+  "warnings": [],
+  "camera_index": 1
+}

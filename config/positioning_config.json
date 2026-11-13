@@ -1,0 +1,46 @@
+{
+  "camera_index": 1,
+  "camera_resolution": [
+    640,
+    480
+  ],
+  "camera_fps": 15,
+  "flip_camera_180": true,
+  "calibration_file": "../calibration/camera_intrinsics_refined.json",
+  "focus_map_file": "../calibration/focus_maps/session_20261106_204130_025633/calibrated/focus_map.json",
+  "tag_family": "tag25h9",
+  "tag_size_m": 0.012,
+  "tag_layout_file": "tag_layout.json",
+  "reprojection_error_px": 40.0,
+  "pnp_center_weight": 4.0,
+  "pnp_image_center_boost": 3.0,
+  "vision_timeout_s": 1.0,
+  "serial_port": "COM4",
+  "serial_usb_id": "1A86:7523",
+  "serial_baud": 115200,
+  "infrared_calibration_file": "infrared_calibration.json",
+  "sensor_timeout_s": 1.0,
+  "sensor_max_skew_s": 0.25,
+  "T_R_C": [
+    [1.0, 0.0, 0.0, 0.0],
+    [0.0, 1.0, 0.0, -0.0295],
+    [0.0, 0.0, 1.0, 0.004],
+    [0.0, 0.0, 0.0, 1.0]],
+  "wing_mesh": "../models/wing_general_simplified.STL",
+  "robot_mesh": "../models/robot_general_simplified.stl",
+  "wing_mesh_scale": 0.001,
+  "robot_mesh_scale": 0.001,
+  "T_W_wing_mesh": [
+    [1.0, 0.0, 0.0, 0.0],
+    [0.0, 1.0, 0.0, 0.0],
+    [0.0, 0.0, 1.0, 0.0],
+    [0.0, 0.0, 0.0, 1.0]],
+  "T_R_robot_mesh": [
+    [1.0, 0.0, 0.0, 0.0],
+    [0.0, 1.0, 0.0, 0.0],
+    [0.0, 0.0, 1.0, 0.0],
+    [0.0, 0.0, 0.0, 1.0]],
+  "wing_opacity": 0.25,
+  "csv_file": "../output/acquisition/positioning_records.csv",
+  "snapshot_dir": "../output/acquisition/camera_snapshots"
+}

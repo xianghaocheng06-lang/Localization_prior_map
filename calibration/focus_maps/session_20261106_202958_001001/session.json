@@ -1,0 +1,29 @@
+{
+  "camera_index": 1,
+  "image_size": [
+    640,
+    480
+  ],
+  "camera_fps": 15,
+  "flip_camera_180": true,
+  "inner_corners": [
+    9,
+    6
+  ],
+  "square_size_mm": 20.0,
+  "focus_values": [
+    272.0,
+    304.0,
+    368.0
+  ],
+  "groups": [
+    {
+      "pose_id": 1,
+      "split": "train",
+      "results": []
+    }
+  ],
+  "mode": "capture",
+  "validation_every": 5,
+  "created_at": "2026-11-06T20:29:59.931498+08:00"
+}

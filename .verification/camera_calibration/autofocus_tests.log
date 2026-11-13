@@ -1,0 +1,14 @@
+.....................................................F...........
+======================================================================
+FAIL: test_serial_calibration_invalid_and_timeout (test_positioning.PositioningTests.test_serial_calibration_invalid_and_timeout)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "D:\Localization_prior_map\����+�Ӿ�+�»���ģ�Ͷ�λ\tests\test_positioning.py", line 53, in test_serial_calibration_invalid_and_timeout
+    self.assertAlmostEqual(readings[1].calibrated_mm, .9513 * 356 - 7.7578)
+    ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: 319.3083 != 330.90500000000003 within 7 places (11.596700000000055 difference)
+
+----------------------------------------------------------------------
+Ran 65 tests in 3.657s
+
+FAILED (failures=1)
